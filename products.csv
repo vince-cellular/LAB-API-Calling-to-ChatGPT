@@ -1,0 +1,4 @@
+id,name,price,category,image
+1,Running Shoes,120,Shoes,product_images/shoes.jpg
+2,Bluetooth Headphones,80,Electronics,product_images/headphones.jpg
+3,Smart Watch,150,Accessories,product_images/watch.jpg

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Running Shoes",
+        "description": "```json\n{\n    \"title\": \"High-Performance Running Shoes for Ultimate Comfort\",\n    \"description\": \"Elevate your running experience with our premium Running Shoes. Designed for athletes and casual runners alike, these shoes provide exceptional support and cushioning, making every step a breeze. The lightweight materials ensure breathability, while the durable outsole offers great traction on various surfaces. Whether you're hitting the pavement or tackling a trail, these shoes will keep your feet comfortable and protected. With a sleek design and vibrant color options, you can enjoy both performance and style. Step into your next run with confidence and discover the difference these Running Shoes can make.\",\n    \"features\": [\n        \"Lightweight and breathable construction\",\n        \"Cushioning for enhanced comfort\",\n        \"Durable outsole for superior traction\",\n        \"Sleek design for a stylish look\",\n        \"Available in multiple color options\"\n    ],\n    \"keywords\": \"running shoes, athletic footwear, lightweight running shoes, comfortable running shoes, breathable shoes, durable running shoes, running sneakers, performance footwear, stylish running shoes, outdoor running shoes\"\n}\n```",
+        "features": [],
+        "keywords": "",
+        "id": 1,
+        "price": 120.0,
+        "category": "Shoes"
+    },
+    {
+        "title": "Bluetooth Headphones",
+        "description": "```json\n{\n    \"title\": \"Premium Bluetooth Headphones - Wireless Audio Experience\",\n    \"description\": \"Experience unparalleled sound quality with our Premium Bluetooth Headphones. Designed for music lovers and audiophiles alike, these headphones deliver rich, immersive audio, perfect for any genre. The sleek and modern design ensures comfort during long listening sessions, while the wireless capability allows you to enjoy your favorite tracks without the hassle of tangled cables. With a battery life of up to 20 hours, you can keep the music playing all day long. Whether you're commuting, working out, or just relaxing at home, these headphones are the perfect companion for your audio needs.\",\n    \"features\": [\n        \"Superior Sound Quality with Deep Bass\",\n        \"Comfortable Over-Ear Design for Extended Wear\",\n        \"Up to 20 Hours of Battery Life\",\n        \"Bluetooth 5.0 for Seamless Connectivity\",\n        \"Built-in Microphone for Hands-Free Calls\"\n    ],\n    \"keywords\": [\n        \"Bluetooth headphones\",\n        \"wireless headphones\",\n        \"premium audio\",\n        \"over-ear headphones\",\n        \"comfortable headphones\",\n        \"deep bass headphones\",\n        \"long battery life headphones\",\n        \"Bluetooth 5.0\",\n        \"hands-free calling\",\n        \"music accessories\",\n        \"electronics\",\n        \"audiophile headphones\",\n        \"wireless audio\",\n        \"sports headphones\",\n        \"noise isolation headphones\"\n    ]\n}\n```",
+        "features": [],
+        "keywords": "",
+        "id": 2,
+        "price": 80.0,
+        "category": "Electronics"
+    },
+    {
+        "title": "Smart Watch",
+        "description": "```json\n{\n    \"title\": \"Premium Smart Watch with Stylish Leather Band\",\n    \"description\": \"Elevate your style and stay connected with our Premium Smart Watch. Designed for the modern individual, this smartwatch combines functionality with elegance. Featuring a sleek display and a luxurious leather band, it seamlessly integrates with your lifestyle. Monitor your health with advanced fitness tracking, receive notifications at a glance, and enjoy customizable watch faces to match your mood. With a battery life that lasts all day, you'll never miss a beat. Whether you're at the office, gym, or out on the town, this smart watch is the perfect accessory for every occasion.\",\n    \"features\": [\n        \"Advanced fitness tracking for health monitoring\",\n        \"Stylish leather band for a sophisticated look\",\n        \"Customizable watch faces to suit your style\",\n        \"Long-lasting battery life for all-day use\",\n        \"Seamless smartphone notifications directly on your wrist\"\n    ],\n    \"keywords\": \"smart watch, premium smartwatch, fitness tracker, leather band watch, stylish accessories, smartwatch for men, smartwatch for women, wearable technology, health monitor, customizable watch faces, long battery life\"\n}\n```",
+        "features": [],
+        "keywords": "",
+        "id": 3,
+        "price": 150.0,
+        "category": "Accessories"
+    }
+]
