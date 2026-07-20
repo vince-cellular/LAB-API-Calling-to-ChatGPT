@@ -1,7 +1,7 @@
 # API Calling to ChatGPT Lab
 
 ## Student
-- Name: Your Name
+- Name: Vincent de Paul NZOTEGOUONG
 - Course: Ironhack AI Engineering Bootcamp
 
 ---
@@ -114,4 +114,4 @@ The application successfully:
 
 ## Author
 
-Your Name
+Vincent de Paul NZOTEGOUONG
